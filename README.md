@@ -4,7 +4,7 @@ __Role: Marketing data analyst__
 
 **Tools Used: Power BI, Excel, PowerPoint**
 
-## Key Insights
+[## Key Insights]
 
 + Online ads are a key marketing platform because it draws the attention of youth with a wide variety of brands available online and to choose from specific needs
 + Caffeine and vitamins are the top ingredients preferred however, it is recommended to have caffeine up to 400mg according to Food and Drug Administration
