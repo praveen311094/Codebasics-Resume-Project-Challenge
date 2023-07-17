@@ -12,3 +12,6 @@ __Role: Marketing data analyst__
 +	Codex can reach 70% of customers only from Online ads and TV Commercials and also it goes the same with other brands where they have used the same marketing strategies in reaching > 60% of their customers
 +	Codex's overall rating in terms of taste and flavor experience is 3.27 and our aim should be a 4 rating in the upcoming quarter.
 + Customers are more interested in energy drinks with prices ranging from 50-150, we have to offer limited edition sales with unique designs and signature styles
+
+[View PPT from here](https://1drv.ms/p/s!AiPoRKaKfh781jHK-IFyKOeqws6A?e=ra4BRb)
+[Google Drive link to watch](https://drive.google.com/file/d/1lATCci_Qa5HM2nf26nk_wh-spFUye6qt/view?usp=sharing)
