@@ -1,4 +1,4 @@
-Codebasics Resume Project Challenge #6 Challenge: Provide Insights to the Marketing Team in Food & Beverage Industry
+/*Codebasics Resume Project Challenge #6 Challenge: Provide Insights to the Marketing Team in Food & Beverage Industry*/
 
 Role: Marketing data analyst
 
