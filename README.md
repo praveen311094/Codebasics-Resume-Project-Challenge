@@ -14,4 +14,5 @@ __Role: Marketing data analyst__
 + Customers are more interested in energy drinks with prices ranging from 50-150, we have to offer limited edition sales with unique designs and signature styles
 
 [View PPT from here](https://1drv.ms/p/s!AiPoRKaKfh781jHK-IFyKOeqws6A?e=ra4BRb)
+
 [Google Drive link to watch](https://drive.google.com/file/d/1lATCci_Qa5HM2nf26nk_wh-spFUye6qt/view?usp=sharing)
